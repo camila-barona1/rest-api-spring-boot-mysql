@@ -3,12 +3,12 @@
 Diseño y desarrollo de servicios web - Proyecto GA7-220501096-
 AA5-EV03
 
-## Table of Contents
+## Tabla de contenido
 
-- [Pasos para iniciar](#Pasos para iniciar)
+- [Inicio](#Inicio)
 - [Demostracion](#Demostracion)
 
-## Pasos para iniciar
+## Inicio
 
 **1. Clonar**
 
@@ -34,12 +34,16 @@ La app iniciara en <http://localhost:8080>
 
 Este projecto evidencia lo siguiente
 - CRUD (Post - Get - Put - Del)
+- 
 ![Img](img/1.png)
 - Requests provados con Postman para validar cada metodo
+- 
 ![Img](img/2.png)
 - Conexion establecida con base de datos Mysql
+- 
 ![Img](img/3.png)
 - Demostracion de un request PUT (para actualizacion de datos) y un query para validar que la informacion haya cargado correctamente
+- 
 ![Img](img/4.png)
 
 
